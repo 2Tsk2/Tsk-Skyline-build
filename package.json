@@ -1,9 +1,9 @@
 {
-  "name": "skyline-builds",
+  "name": "Tsk-Skyline-build",
   "private": true,
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Alula",
+  "author": "Alula,Tsk",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon --ignore cache src/index.ts",
